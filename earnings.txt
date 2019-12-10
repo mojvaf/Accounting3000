@@ -1,0 +1,14 @@
+Expenses 23 234.0
+Expenses errtt 12.0
+Earnings 234hgf 12.0
+Expenses water 12.0
+Expenses gas 123.0
+Earnings rent 2000.0
+Expenses water 2.0
+Expenses 33 44.0
+Expenses 45 4.0
+Expenses foo 40.0
+Earnings 23 2.0
+Expenses 23 0.0
+Expenses 33 22.0
+Expenses re 55.0
